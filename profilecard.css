@@ -1,0 +1,21 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&display=swap');
+
+:root {
+--darkcyan: hsl(185, 75%, 39%);
+--primary-text: hsl(229, 23%, 23%);
+--secondary-text: hsl(227, 10%, 46%);
+--dark-gray: hsl(0, 0%, 59%);
+
+  font-family: 'Kumbh Sans';
+
+}
+
+
+  .attribution {
+    font-size: 11px; text-align: center;
+  }
+
+  .attribution a {
+    color: hsl(228, 45%, 44%);
+  }
