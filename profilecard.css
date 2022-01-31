@@ -10,12 +10,6 @@
 
 body {}
 
-.sr-only {
-  position: absolute;
-  top: -9999px;
-  left: -9999px;
-}
-
 .attribution {
   font-size: 11px;
   text-align: center;
