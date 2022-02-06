@@ -23,7 +23,7 @@ main {
   grid-template-columns: repeat(2, 1fr);
   background-color: white;
   border-radius: 15px;
-  width: clamp(50%, 42em, 100%);
+  width: MinMax(16em, 100%);
   margin: 1em;
   transform:translateZ(500px);
   transform-style: preserve-3d;
