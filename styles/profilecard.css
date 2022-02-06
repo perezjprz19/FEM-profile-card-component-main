@@ -21,8 +21,10 @@ main {
 .bottom-bg {
   position: absolute;
   z-index: -1;
-  width: MinMax(30em, 55vh);
-  height: MinMax(30em, 55vh);
+  /*minmax can only be used with grid this needs changed.*/
+  width:30em;
+  height:30em;
+
 }
 
 .top-bg {

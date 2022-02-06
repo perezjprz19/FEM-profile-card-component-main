@@ -23,7 +23,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Screenshot
 
-![](../images/profile-card-demo.png)
+![](./images/profile-card-demo.png)
 
 
 ### Links
@@ -47,7 +47,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 - When I was building this project, I found that there was an inconsistency with the way the images were being accessed on Github vs. how they would be accessed locally. Basically, because I had created a new folder for all my styles, I would need to write the path as /images/something.svg and this would allow the image to be displayed locally as a background image. However, when launched through Git Pages, the images would not appear in the viewport. The way to resolve this was by writing the path this way: ../images/something.svg. Notice that there are two dots prior to accessing the image folder.
 
-
+- minmax() is to be used with Grid.
 
 ### Continued development
 
