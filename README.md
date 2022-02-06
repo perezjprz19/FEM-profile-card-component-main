@@ -8,14 +8,12 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -25,22 +23,13 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](../images/profile-card-demo.png)
 
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
-
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it.
-
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
-
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [View Live](https://perezjprz19.github.io/FEM-profile-card-component-main/)
-
-## My process
+- Solution URL: [View Solution on FEM](https://www.frontendmentor.io/solutions/profile-card-component-using-sassscss-flexbox-and-grid-7-E2CjaFZ)
+- Live Site URL: [View Live on Github Pages](https://perezjprz19.github.io/FEM-profile-card-component-main/)
 
 ### Built with
 
@@ -56,7 +45,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 - I learned about Sass variables, Sass functions, Mixins, and partials.
 
-- When I was building this project, I found that there was an inconsistency with the way the images were being accessed on Github vs. how they would be accessed locally. Basically, because I had created a new folder for all my styles, I would need to write the path as /images/something.svg and this would allow the image to be displayed locally as a background image. However, when launched through Git Pages, the images would not appear in the viewport. The way to resolve this was by writing the path this way: ../images/something.svg. Notice that there are two dots prior to accessing the image folder. 
+- When I was building this project, I found that there was an inconsistency with the way the images were being accessed on Github vs. how they would be accessed locally. Basically, because I had created a new folder for all my styles, I would need to write the path as /images/something.svg and this would allow the image to be displayed locally as a background image. However, when launched through Git Pages, the images would not appear in the viewport. The way to resolve this was by writing the path this way: ../images/something.svg. Notice that there are two dots prior to accessing the image folder.
 
 
 
