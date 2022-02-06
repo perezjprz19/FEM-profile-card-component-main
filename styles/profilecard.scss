@@ -9,7 +9,6 @@ body {
   height: 100vh;
   font-family: $main-font;
   font-weight: 400;
-  overflow: hidden;
 }
 
 main {
@@ -23,8 +22,9 @@ main {
 .bottom-bg {
   position: absolute;
   z-index: -1;
-  height: MinMax(50em, 50vh);
-  width: MinMax(50em, 50vh);
+
+  width: MinMax(30em, 55vh);
+  height: MinMax(30em, 55vh);
 }
 
 .top-bg {
