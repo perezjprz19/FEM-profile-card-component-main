@@ -22,8 +22,8 @@ main {
 .bottom-bg {
   position: absolute;
   z-index: -1;
-  height: MinMax(25em, 25%);
-  width: MinMax(25em, 25%);
+  height: MinMax(50em, 50vh);
+  width: MinMax(50em, 50vh);
 }
 
 .top-bg {
